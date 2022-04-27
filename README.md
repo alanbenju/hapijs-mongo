@@ -15,4 +15,5 @@ Run tests: `npm run test`
 - Authentication & Authorization
 - Validate schemas before adding/updating to database
 - Add response interface to retrieve on every request:{success, msg, err, result}
-- run tests, eslint before pushing to repository
+- run tests and eslint before pushing to repository
+- dockerize api
